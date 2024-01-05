@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Mind Solar | 心晖：闪耀每一片灵感
 id: home
 permalink: /
 ---
@@ -8,12 +8,10 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  一个基于 [[MarkDown]] 和 [Obsidian](https://obsidian.md) 的 <span style="font-weight: bold">[[双链信息中心]]</span>。Mind Solar，将心灵比作太阳，让每个想法如阳光般闪耀。
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+This digital garden template is free, open-source, and [available on GitHub here](https://github.com/olivla/mind-solar).
 
 <strong>Recently updated notes</strong>
 
