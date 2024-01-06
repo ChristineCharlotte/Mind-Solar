@@ -8,7 +8,7 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  一个基于 [[MarkDown]] 和 [Obsidian](https://obsidian.md) 的 <span style="font-weight: bold">[[双链信息中心]]</span>。Mind Solar，将心灵比作太阳，让每个想法如阳光般闪耀。
+  一个基于 [[MarkDown]] 和 [[Obsidian]] 的 <span style="font-weight: bold">[[双链信息中心]]</span>。Mind Solar，将心灵比作太阳，让每个想法如阳光般闪耀。
 </p>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/olivla/mind-solar).
